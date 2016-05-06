@@ -360,7 +360,13 @@ Weather
 *	Space News article "FAA ADvisory Group Endorses Moon Village Concept": http://spacenews.com/faa-advisory-group-endorses-moon-village-concept/ 
 *	Tech Times article "ESA to Build 3D Printed Moon Village for Astronauts": http://www.techtimes.com/articles/121906/20160107/esa-to-build-3d-printed-moon-village-for-astronauts-by-2030.htm
 *	Google Cardboard: https://developers.google.com/cardboard/
-
+*	Interplanetary Overlay Network (ION). What’s New: https://www.youtube.com/watch?v=1zVstd8D3qw
+* NASA’s Advanced Communications Program. An Opportunity for DTN: https://www.youtube.com/watch?v=TML8ZPhdxY8
+* InterPlanetary Networking Special Interest Group (IPNSIG): http://ipnsig.org/introducing-delay-disruption-tolerant-networking-dtn/
+* Bundle Protocol Specification: https://tools.ietf.org/html/rfc5050
+* Delay-Tolerant Networking Architecture: https://tools.ietf.org/html/rfc4838
+* Licklider Transmission Protocol: https://tools.ietf.org/html/rfc5326
+* Deep Space Optical Communications (DSOC): http://gameon.nasa.gov/projects-2/deep-space-optical-communications/
 
 ###SimSpace
 *	NASA Report: A Kalman Approach to Lunar Surface Navigation Using Radiometric and Inertial Measurements: http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20090027870.pdf
